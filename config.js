@@ -23,7 +23,7 @@ global.REACT_NUMBER = '94763867158' //මෙතන number එක.
 // Other
 global.owner = ['94763867158',''] //මෙතන number එක.
 global.premium = ['94781177410','9476342733'] //මෙතන number එක.
-global.botname = 'KENZO BOT INC' //මෙතන නම.
+global.botname = 'KENZO  INC' //මෙතන නම.
 global.ownername = 'KENZO MD' //මෙතන නම.
 global.ownername = 'KENZO' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/JOcVUD5LL6d8yLryuSFfLn' //මෙතන grouplink එක.
